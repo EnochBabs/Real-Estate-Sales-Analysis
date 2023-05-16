@@ -25,12 +25,12 @@ Each Problem Statement have been answered through using different Visualization 
 ![](Trend_sales_year.png)
 
 3.	What is the relationship/correlation between assessed Value and Sales Value?
-![](Real_assess_sale.png)
+![](Rel_assess_sale.png)
 
 4.	Which property type is the costliest?
-![](Property_SaleAmt)
+![](Property_SaleAmt.png)
 
 5.  Show the Correlation map of the Variables involved.
-![]()
+![](Correlation.png)
 
 
