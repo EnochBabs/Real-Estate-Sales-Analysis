@@ -6,12 +6,31 @@ This is a project that makes use of Python Programming Language to analyze Real 
 
 ## About the Data
 The data was sourced from Kaggle dataset.
-It has about 97213 rows and 14 columns
+It has about 997213 rows and 14 columns.
 
 
 ## Problem Statement
-1.	WHat is the cost of Real Estate per Year?
-2.	What is the trend of real extate Year on Year (YOY)?
-3.	WHat is the relationship/correlation between assessed Value and Sales Value?
-4.	Which property tpe is the costliest?
-5.  Show the Corelation map of the Variables involved.
+1.	What is the Total Sales of Real Estate per Year?
+2.	What is the trend of Real Estate Year on Year (YOY)?
+3.	What is the relationship/correlation between assessed Value and Sales Value?
+4.	Which property type is the costliest?
+5.  Show the Correlation map of the Variables involved.
+
+## Visualization
+Each Problem Statement have been answered through using different Visualization methods that can be interpreted and understood even by the layman. The data comes alive through these Visuals
+1.	What is the Total Sales of Real Estate per Year?
+![](Sale_Amount_Year.png)
+
+2. What is the trend of Real Estate Year on Year (YOY)?
+![](Trend_sales_year.png)
+
+3.	What is the relationship/correlation between assessed Value and Sales Value?
+![](Real_assess_sale.png)
+
+4.	Which property type is the costliest?
+![](Property_SaleAmt)
+
+5.  Show the Correlation map of the Variables involved.
+![]()
+
+
