@@ -27,6 +27,7 @@ Each Problem Statement have been answered through using different Visualization 
 
 3.	What is the relationship/correlation between assessed Value and Sales Value?
 ![](Rel_assess_sale.png)
+Quite positively Correlated, but not strongly correlated.
 
 4.	Which property type is the costliest?
 ![](Property_SaleAmt.png)
