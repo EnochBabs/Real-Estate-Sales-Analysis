@@ -14,7 +14,8 @@ It has about 997213 rows and 14 columns.
 2.	What is the trend of Real Estate Year on Year (YOY)?
 3.	What is the relationship/correlation between assessed Value and Sales Value?
 4.	Which property type is the costliest?
-5.  Show the Correlation map of the Variables involved.
+5.  Which Town has the highest total sales of Real Estate, and what property type was the most sold? 
+6.  Show the Correlation map of the Variables involved.
 
 ## Visualization
 Each Problem Statement have been answered through using different Visualization methods that can be interpreted and understood even by the layman. The data comes alive through these Visuals
@@ -30,7 +31,13 @@ Each Problem Statement have been answered through using different Visualization 
 4.	Which property type is the costliest?
 ![](Property_SaleAmt.png)
 
-5.  Show the Correlation map of the Variables involved.
+5. Which Town has the highest total sales of Real Estate, and what property type was the most sold? 
+![](Town_Sale_PropType.png)
+
+6.  Show the Correlation map of the Variables involved.
 ![](Correlation.png)
+
+## Conclusion
+Real Estate will make you cool money if you do it the data driven way. You know the towns to focus on, the property type that sells the most and this helps you to make informed decisions. Use data!
 
 
